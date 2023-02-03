@@ -11195,6 +11195,8 @@ pre {
   min-height: 750px;
 }
 
+
+
 .header .overlay {
   height: 100%;
   background: rgba(33, 37, 41, 0.85);
@@ -11255,6 +11257,10 @@ pre {
 }
 
 .has-img-bg {
+  background: url(../imgs/about-section.jpg) no-repeat center center;
+  background-size: cover;
+}
+.has-img-bg1 {
   background: url(../imgs/about-section.jpg) no-repeat center center;
   background-size: cover;
 }
